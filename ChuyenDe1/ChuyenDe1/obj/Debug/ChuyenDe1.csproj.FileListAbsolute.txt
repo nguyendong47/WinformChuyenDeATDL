@@ -1,0 +1,9 @@
+C:\Users\ongan\Documents\ChuyenDeWinfrom\ChuyenDe1\ChuyenDe1\bin\Debug\ChuyenDe1.exe.config
+C:\Users\ongan\Documents\ChuyenDeWinfrom\ChuyenDe1\ChuyenDe1\bin\Debug\ChuyenDe1.exe
+C:\Users\ongan\Documents\ChuyenDeWinfrom\ChuyenDe1\ChuyenDe1\bin\Debug\ChuyenDe1.pdb
+C:\Users\ongan\Documents\ChuyenDeWinfrom\ChuyenDe1\ChuyenDe1\obj\Debug\ChuyenDe1.csprojAssemblyReference.cache
+C:\Users\ongan\Documents\ChuyenDeWinfrom\ChuyenDe1\ChuyenDe1\obj\Debug\ChuyenDe1.Form1.resources
+C:\Users\ongan\Documents\ChuyenDeWinfrom\ChuyenDe1\ChuyenDe1\obj\Debug\ChuyenDe1.Properties.Resources.resources
+C:\Users\ongan\Documents\ChuyenDeWinfrom\ChuyenDe1\ChuyenDe1\obj\Debug\ChuyenDe1.csproj.GenerateResource.cache
+C:\Users\ongan\Documents\ChuyenDeWinfrom\ChuyenDe1\ChuyenDe1\obj\Debug\ChuyenDe1.exe
+C:\Users\ongan\Documents\ChuyenDeWinfrom\ChuyenDe1\ChuyenDe1\obj\Debug\ChuyenDe1.pdb
