@@ -46,9 +46,6 @@
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.panel2 = new System.Windows.Forms.Panel();
             this.panel6 = new System.Windows.Forms.Panel();
-            this.label1 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
-            this.label6 = new System.Windows.Forms.Label();
             this.information2 = new Avast2017.information();
             this.decrpytion2 = new Avast2017.decrpytion();
             this.encrpytion2 = new Avast2017.encrpytion();
@@ -61,6 +58,7 @@
             this.toolTip4 = new System.Windows.Forms.ToolTip(this.components);
             this.toolTip5 = new System.Windows.Forms.ToolTip(this.components);
             this.toolTip6 = new System.Windows.Forms.ToolTip(this.components);
+            this.pictureBox8 = new System.Windows.Forms.PictureBox();
             this.panel1.SuspendLayout();
             this.panel4.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).BeginInit();
@@ -74,6 +72,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.panel2.SuspendLayout();
             this.panel6.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).BeginInit();
             this.SuspendLayout();
             // 
             // panel1
@@ -267,9 +266,7 @@
             // 
             this.panel6.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("panel6.BackgroundImage")));
             this.panel6.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.panel6.Controls.Add(this.label1);
-            this.panel6.Controls.Add(this.label2);
-            this.panel6.Controls.Add(this.label6);
+            this.panel6.Controls.Add(this.pictureBox8);
             this.panel6.Controls.Add(this.information2);
             this.panel6.Controls.Add(this.decrpytion2);
             this.panel6.Controls.Add(this.encrpytion2);
@@ -278,44 +275,6 @@
             this.panel6.Name = "panel6";
             this.panel6.Size = new System.Drawing.Size(1138, 608);
             this.panel6.TabIndex = 3;
-            // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(244)))), ((int)(((byte)(248)))), ((int)(((byte)(251)))));
-            this.label1.Font = new System.Drawing.Font("SVN-Cafe Lounge 19", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.label1.Location = new System.Drawing.Point(152, 392);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(157, 44);
-            this.label1.TabIndex = 7;
-            this.label1.Text = "Chuyên Đề 4";
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(244)))), ((int)(((byte)(248)))), ((int)(((byte)(251)))));
-            this.label2.Font = new System.Drawing.Font("SVN-Taiga", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.label2.Location = new System.Drawing.Point(42, 296);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(147, 55);
-            this.label2.TabIndex = 6;
-            this.label2.Text = "MÃ HOÁ";
-            // 
-            // label6
-            // 
-            this.label6.AutoSize = true;
-            this.label6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(244)))), ((int)(((byte)(248)))), ((int)(((byte)(251)))));
-            this.label6.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.label6.Font = new System.Drawing.Font("SVN-Vanessas Valentine", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.label6.Location = new System.Drawing.Point(47, 341);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(235, 59);
-            this.label6.TabIndex = 5;
-            this.label6.Text = "THAY THẾ";
-            this.label6.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             // 
             // information2
             // 
@@ -399,6 +358,16 @@
             this.toolTip6.AutomaticDelay = 0;
             this.toolTip6.ToolTipTitle = "GUIDE";
             // 
+            // pictureBox8
+            // 
+            this.pictureBox8.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox8.Image")));
+            this.pictureBox8.Location = new System.Drawing.Point(6, 280);
+            this.pictureBox8.Name = "pictureBox8";
+            this.pictureBox8.Size = new System.Drawing.Size(330, 181);
+            this.pictureBox8.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
+            this.pictureBox8.TabIndex = 3;
+            this.pictureBox8.TabStop = false;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -425,6 +394,7 @@
             this.panel2.ResumeLayout(false);
             this.panel6.ResumeLayout(false);
             this.panel6.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -453,15 +423,13 @@
         private decrpytion decrpytion1;
         private information information1;
         private System.Windows.Forms.Panel panel6;
-        private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Label label6;
         private information information2;
         private decrpytion decrpytion2;
         private encrpytion encrpytion2;
         private System.Windows.Forms.ToolTip toolTip4;
         private System.Windows.Forms.ToolTip toolTip5;
         private System.Windows.Forms.ToolTip toolTip6;
+        private System.Windows.Forms.PictureBox pictureBox8;
     }
 }
 
