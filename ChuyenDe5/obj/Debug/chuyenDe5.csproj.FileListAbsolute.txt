@@ -9,3 +9,14 @@ C:\Users\ongan\Documents\Winfrom\ChuyenDe5\bin\Debug\ChuyenDe5.pdb
 C:\Users\ongan\Documents\Winfrom\ChuyenDe5\obj\Debug\ChuyenDe5.Properties.Resources.resources
 C:\Users\ongan\Documents\Winfrom\ChuyenDe5\obj\Debug\ChuyenDe5.exe
 C:\Users\ongan\Documents\Winfrom\ChuyenDe5\obj\Debug\ChuyenDe5.pdb
+C:\Users\ongan\Documents\Winfrom\ChuyenDeWinfrom\ChuyenDe5\bin\Debug\ChuyenDe5.exe.config
+C:\Users\ongan\Documents\Winfrom\ChuyenDeWinfrom\ChuyenDe5\bin\Debug\ChuyenDe5.exe
+C:\Users\ongan\Documents\Winfrom\ChuyenDeWinfrom\ChuyenDe5\bin\Debug\ChuyenDe5.pdb
+C:\Users\ongan\Documents\Winfrom\ChuyenDeWinfrom\ChuyenDe5\obj\Debug\Avast2017.decrpytion.resources
+C:\Users\ongan\Documents\Winfrom\ChuyenDeWinfrom\ChuyenDe5\obj\Debug\Avast2017.encrpytion.resources
+C:\Users\ongan\Documents\Winfrom\ChuyenDeWinfrom\ChuyenDe5\obj\Debug\Avast2017.Form1.resources
+C:\Users\ongan\Documents\Winfrom\ChuyenDeWinfrom\ChuyenDe5\obj\Debug\Avast2017.information.resources
+C:\Users\ongan\Documents\Winfrom\ChuyenDeWinfrom\ChuyenDe5\obj\Debug\ChuyenDe5.Properties.Resources.resources
+C:\Users\ongan\Documents\Winfrom\ChuyenDeWinfrom\ChuyenDe5\obj\Debug\ChuyenDe5.csproj.GenerateResource.cache
+C:\Users\ongan\Documents\Winfrom\ChuyenDeWinfrom\ChuyenDe5\obj\Debug\ChuyenDe5.exe
+C:\Users\ongan\Documents\Winfrom\ChuyenDeWinfrom\ChuyenDe5\obj\Debug\ChuyenDe5.pdb
