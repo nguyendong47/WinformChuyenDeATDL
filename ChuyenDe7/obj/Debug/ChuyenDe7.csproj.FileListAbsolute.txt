@@ -1,0 +1,11 @@
+C:\Users\ongan\Documents\Winfrom\ChuyenDe7\bin\Debug\ChuyenDe7.exe.config
+C:\Users\ongan\Documents\Winfrom\ChuyenDe7\bin\Debug\ChuyenDe7.exe
+C:\Users\ongan\Documents\Winfrom\ChuyenDe7\bin\Debug\ChuyenDe7.pdb
+C:\Users\ongan\Documents\Winfrom\ChuyenDe7\obj\Debug\Avast2017.decrpytion.resources
+C:\Users\ongan\Documents\Winfrom\ChuyenDe7\obj\Debug\Avast2017.encrpytion.resources
+C:\Users\ongan\Documents\Winfrom\ChuyenDe7\obj\Debug\Avast2017.Form1.resources
+C:\Users\ongan\Documents\Winfrom\ChuyenDe7\obj\Debug\Avast2017.information.resources
+C:\Users\ongan\Documents\Winfrom\ChuyenDe7\obj\Debug\ChuyenDe7.Properties.Resources.resources
+C:\Users\ongan\Documents\Winfrom\ChuyenDe7\obj\Debug\ChuyenDe7.csproj.GenerateResource.cache
+C:\Users\ongan\Documents\Winfrom\ChuyenDe7\obj\Debug\ChuyenDe7.exe
+C:\Users\ongan\Documents\Winfrom\ChuyenDe7\obj\Debug\ChuyenDe7.pdb
