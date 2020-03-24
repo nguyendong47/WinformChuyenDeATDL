@@ -1,0 +1,6 @@
+C:\Users\ongan\Documents\TaiLieu\Csharp\Kteam_Keylogger\Keylogger\Keylogger\bin\Debug\Keylogger.exe.config
+C:\Users\ongan\Documents\TaiLieu\Csharp\Kteam_Keylogger\Keylogger\Keylogger\bin\Debug\Keylogger.exe
+C:\Users\ongan\Documents\TaiLieu\Csharp\Kteam_Keylogger\Keylogger\Keylogger\bin\Debug\Keylogger.pdb
+C:\Users\ongan\Documents\TaiLieu\Csharp\Kteam_Keylogger\Keylogger\Keylogger\obj\Debug\Keylogger.csprojAssemblyReference.cache
+C:\Users\ongan\Documents\TaiLieu\Csharp\Kteam_Keylogger\Keylogger\Keylogger\obj\Debug\Keylogger.exe
+C:\Users\ongan\Documents\TaiLieu\Csharp\Kteam_Keylogger\Keylogger\Keylogger\obj\Debug\Keylogger.pdb
