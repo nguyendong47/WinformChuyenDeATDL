@@ -12,6 +12,7 @@ namespace ChuyenDe5
         SpeechSynthesizer speechsynth = new SpeechSynthesizer();
         SpeechRecognitionEngine receng = new SpeechRecognitionEngine();
         SpeechRecognitionEngine receng2 = new SpeechRecognitionEngine();
+        SpeechRecognitionEngine receng3 = new SpeechRecognitionEngine(new System.Globalization.CultureInfo("en-UK"));
         public Form1()
         {
             InitializeComponent();
@@ -44,6 +45,15 @@ namespace ChuyenDe5
         }
         private void pictureBox5_Click(object sender, EventArgs e)
         {
+            pictureBox5.Enabled = false;
+            pictureBox9.Enabled = true;
+            //#region Nhận diện mọi từ
+            //receng3.SetInputToDefaultAudioDevice();
+            //receng3.LoadGrammar(new DictationGrammar());
+            //receng3.RecognizeAsync(RecognizeMode.Multiple);
+            //receng3.SpeechRecognized += new EventHandler<SpeechRecognizedEventArgs>(receng3_reconized);
+            //#endregion
+            #region Nhận diện từ điển - Username
             Choices choice = new Choices();
             choice.Add(new string[] { "Dong", "123", "Information Technology", "CNTT2" });
             Grammar gr = new Grammar(new GrammarBuilder(choice));
@@ -59,6 +69,11 @@ namespace ChuyenDe5
             {
                 MessageBox.Show(ex.Message, "Error");
             }
+            #endregion
+        }
+        void receng3_reconized(object sender, SpeechRecognizedEventArgs e)
+        {
+            textBox4.Text = e.Result.Text.ToString();
         }
         void receng_SpeechRecognized1(object sender, SpeechRecognizedEventArgs e)
         {
@@ -71,10 +86,14 @@ namespace ChuyenDe5
             pictureBox9.Enabled = false;
             pictureBox5.Enabled = true;
             receng.RecognizeAsyncStop();
+            receng3.RecognizeAsyncStop();
         }
         private void pictureBox6_Click(object sender, EventArgs e)
         {
+            pictureBox6.Enabled = false;
+            pictureBox10.Enabled = true;
             Choices choice1 = new Choices();
+            //Nhận diện từ điển -Username
             choice1.Add(new string[] { "Hai Phong University", "Information Technology", "123" });
             Grammar gr = new Grammar(new GrammarBuilder(choice1));
             try
